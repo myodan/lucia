@@ -9,20 +9,20 @@
 			"title": "세션",
 			"pages": [
 				["개요", "/sessions/overview"],
-				["Basic API", "/sessions/basic-api"],
-				["Cookies", "/sessions/cookies"],
+				["기본 API", "/sessions/basic-api"],
+				["쿠키", "/sessions/cookies"],
 				["Lucia v3에서 마이그레이션", "/sessions/migrate-lucia-v3"]
 			]
 		},
 		{
-			"title": "Tutorials",
+			"title": "튜토리얼",
 			"pages": [
 				["GitHub OAuth", "/tutorials/github-oauth"],
 				["Google OAuth", "/tutorials/google-oauth"]
 			]
 		},
 		{
-			"title": "Example projects",
+			"title": "프로젝트 예시",
 			"pages": [
 				["GitHub OAuth", "/examples/github-oauth"],
 				["Google OAuth", "/examples/google-oauth"],
@@ -31,14 +31,14 @@
 			]
 		},
 		{
-			"title": "Rate limiting",
+			"title": "레이트 리미팅",
 			"pages": [
 				["Token bucket", "/rate-limit/token-bucket"],
 				["Throttling", "/rate-limit/throttling"]
 			]
 		},
 		{
-			"title": "Community",
+			"title": "커뮤니티",
 			"pages": [
 				["GitHub", "https://github.com/lucia-auth/lucia"],
 				["Discord", "https://discord.com/invite/PwrK3kpVR3"],
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"title": "Related projects",
+			"title": "관련 프로젝트",
 			"pages": [
 				["The Copenhagen Book", "https://thecopenhagenbook.com"],
 				["Oslo", "https://oslojs.dev"],
