@@ -1,16 +1,16 @@
 ---
-title: "Sessions"
+title: "세션"
 ---
 
-# Sessions
+# 세션
 
-Sessions are a way to persist state in the server. It is especially useful for managing the authentication state, such as the client's identity. We can assign each session with a unique ID and store it on the server to use it as a token. The client can then associate subsequent requests with a session, and by extension, with the user, by sending its ID.
+세션은 서버에서 상태를 유지하는 방법입니다. 특히 클라이언트의 신원과 같은 인증 상태를 관리하는 데 유용합니다. 각 세션에 고유 ID를 할당하고 이를 서버에 저장하여 토큰으로 사용할 수 있습니다. 그러면 클라이언트는 ID를 전송하여 후속 요청을 세션과 연결하고, 더 나아가 사용자와 연결할 수 있습니다.
 
-Session IDs can either be stored using cookies or local storage in browsers. We recommend using cookies since it provides some protection against XSS and the easiest to deal with overall.
+세션 ID는 쿠키를 사용하여 저장하거나 브라우저의 로컬 저장소에 저장할 수 있습니다. 쿠키를 사용하면 XSS를 어느 정도 방지할 수 있고 전반적으로 가장 쉽게 처리할 수 있으므로 쿠키를 사용하는 것이 좋습니다.
 
-This guide has 2 sections on sessions:
+이 가이드는 세션에 대한 두 가지 섹션으로 구성되어 있습니다:
 
-- Basic session API: Create a basic session API using your database driver/ORM of choice.
-- Cookies: Define your session cookie using your JavaScript framework of choice.
+- 기본 세션 API: 선택한 데이터베이스 드라이버/ORM을 사용하여 기본 세션 API를 만듭니다.
+- 쿠키: 선택한 자바스크립트 프레임워크를 사용하여 세션 쿠키를 정의합니다.
 
-To learn how to implement auth using the API you created, see the tutorials section. If you want to learn from real-life projects, see the examples section.
+새 API를 사용하여 인증을 구현하는 방법을 배우려면 튜토리얼 섹션을 참조하세요. 기존 프로젝트에서 배우고 싶다면 예제 섹션을 참조하세요.
