@@ -1,6 +1,6 @@
 # Lucia
 
-**Link: [lucia-auth.com](https://lucia-auth.com)**
+**Link: [lucia.myodan.me](https://lucia.myodan.me)**
 
 > [!IMPORTANT]  
 > Lucia v3는 2025년 3월에 지원 중단됩니다. 이제 Lucia는 처음부터 인증을 구현하는 방법에 대한 학습 리소스로 제공됩니다. 자세한 내용과 마이그레이션 방법은 [공지사항](https://github.com/lucia-auth/lucia/discussions/1714)을 참조하세요. v3의 소스 코드는 `v3` 브랜치에서 확인 할 수 있습니다.
