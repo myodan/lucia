@@ -6,9 +6,9 @@
 	"asset_hashing": true,
 	"sidebar": [
 		{
-			"title": "Sessions",
+			"title": "세션",
 			"pages": [
-				["Overview", "/sessions/overview"],
+				["개요", "/sessions/overview"],
 				["Basic API", "/sessions/basic-api"],
 				["Cookies", "/sessions/cookies"],
 				["Migrate from Lucia v3", "/sessions/migrate-lucia-v3"]
