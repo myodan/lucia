@@ -11,7 +11,7 @@
 				["개요", "/sessions/overview"],
 				["Basic API", "/sessions/basic-api"],
 				["Cookies", "/sessions/cookies"],
-				["Migrate from Lucia v3", "/sessions/migrate-lucia-v3"]
+				["Lucia v3에서 마이그레이션", "/sessions/migrate-lucia-v3"]
 			]
 		},
 		{
