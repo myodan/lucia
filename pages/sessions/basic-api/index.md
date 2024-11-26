@@ -1,10 +1,10 @@
 ---
-title: "Basic API"
+title: "기본 API"
 ---
 
-# Basic session API
+# 기본 세션 API
 
-This page covers how to implement sessions with your database of choice.
+이 페이지에서는 선택한 데이터베이스로 세션을 구현하는 방법에 대해 설명합니다.
 
 - [Drizzle ORM](/sessions/basic-api/drizzle-orm)
 - [Redis](/sessions/basic-api/redis)
